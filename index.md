@@ -6,7 +6,8 @@ title: Lebenslauf Theo Grigor
 Fullstack-Entwickler
 
 <div id="webaddress">
-    <a href="mailto:thgr4j@pm.me">thgr4j@pm.me</a>
+    <a href="https://www.linkedin.com/in/theo-grigor-313167198/">LinkedIn</a>
+|   <a href="mailto:thgr4j@pm.me">thgr4j@pm.me</a>
 |   <a href="tel:+4917636397655">017636397655</a>
 </div>
 Mitgautstraße 15,
@@ -16,36 +17,36 @@ Mitgautstraße 15,
 ## Tätigkeiten
 
 `seit 09.2023`
-__Bredex GmbH__
-Software Developer Expert  
-- Spring Boot
-- React, PrimeReact
-- MySQL
-- Kubernetes, Helm
-- Azure
-- Gitlab CI, Bamboo
+__Software Developer Expert__  
+Bredex GmbH  
 
 `01.2023-09.2023`
-__Bredex GmbH__  
-Studentische Hilfskraft
-- Spring Boot
-- Angular, PrimeNG
+__Studentische Hilfskraft__  
+Bredex GmbH
+
+`seit 2017`
+__Ehrenamtlicher Vorstandsmitglied__  
+VisioNachhilfe e.V.  
+Gemeinnütziger Verein für innerschulische Nachhilfe
+
+### Skills
 
 ## Bildung
 
 `seit 10.2019`
-__Georg-August-Universität Göttingen__  
-Wirtschaftsinformatik B.Sc.
+__Wirtschaftsinformatik B.Sc.__  
+Georg-August-Universität Göttingen
 
 `05.2023`
-__Georg-August-Universität Göttingen__  
-Bachelorarbeit: "Erstellung einer Taxonomie zur Klassifizierung automatisierter Tests in Software Testing Education"
+__Bachelorarbeit__  
+"Erstellung einer Taxonomie zur Klassifizierung automatisierter Tests in Software Testing Education"  
+Georg-August-Universität Göttingen
 
 ## Zertifikate
 
 `09.2021`
-__Georg-August-Universität Göttingen__  
-Business English C1.2
+__Business English C1.2__  
+Georg-August-Universität Göttingen
 
 <!-- ### Footer
 
