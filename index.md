@@ -6,8 +6,7 @@ title: Lebenslauf Theo Grigor
 Fullstack-Entwickler
 
 <div id="webaddress">
-    <a href="https://www.linkedin.com/in/theo-grigor-313167198/">LinkedIn</a>
-|   <a href="mailto:thgr4j@pm.me">thgr4j@pm.me</a>
+    <a href="mailto:thgr4j@pm.me">thgr4j@pm.me</a>
 |   <a href="tel:+4917636397655">017636397655</a>
 </div>
 Mitgautstraße 15,
@@ -17,8 +16,14 @@ Mitgautstraße 15,
 ## Tätigkeiten
 
 `seit 09.2023`
-__Software Developer Expert__  
-Bredex GmbH  
+__Bredex GmbH__
+Software Developer Expert  
+- Spring Boot
+- React, PrimeReact
+- MySQL
+- Kubernetes, Helm
+- Azure
+- Gitlab CI, Bamboo
 
 `01.2023-09.2023`
 __Studentische Hilfskraft__  
@@ -30,23 +35,32 @@ VisioNachhilfe e.V.
 Gemeinnütziger Verein für innerschulische Nachhilfe
 
 ### Skills
+- Java
+- Spring Boot
+- Angular, PrimeNG
+- React, PrimeReact
+- HTMX
+- Kubernetes, ArgoCD, Helm
+- Gitlab CI, Bamboo
+- Azure
+- MySQL, PostgreSQL
+
 
 ## Bildung
 
 `seit 10.2019`
-__Wirtschaftsinformatik B.Sc.__  
-Georg-August-Universität Göttingen
+__Georg-August-Universität Göttingen__  
+Wirtschaftsinformatik B.Sc.
 
 `05.2023`
-__Bachelorarbeit__  
-"Erstellung einer Taxonomie zur Klassifizierung automatisierter Tests in Software Testing Education"  
-Georg-August-Universität Göttingen
+__Georg-August-Universität Göttingen__  
+Bachelorarbeit: "Erstellung einer Taxonomie zur Klassifizierung automatisierter Tests in Software Testing Education"
 
 ## Zertifikate
 
 `09.2021`
-__Business English C1.2__  
-Georg-August-Universität Göttingen
+__Georg-August-Universität Göttingen__  
+Business English C1.2
 
 <!-- ### Footer
 
