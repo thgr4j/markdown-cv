@@ -49,6 +49,23 @@ table {
 
 /* end of reset */
 
+img {
+	border-radius: 999px;
+	height: 15rem;
+	float: right;
+}
+
+#theo-grigor {
+	padding-top: 2rem;
+}
+
+#tätigkeiten {
+	margin-top: 5rem;
+}
+
+.blue {
+	color: #1E66F5;
+}
 
 
 body {
@@ -74,7 +91,7 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #7287FD;
 }
 
 p code {
@@ -110,7 +127,7 @@ li ul {
 	position: relative;
 	left: 0;
 	width: 100%;
-	margin-top: 0.25em;
+	margin-top: 0.125em;
 }
 
 h1,h2,h3,h4 {
@@ -135,7 +152,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #bc412b;
+	color: #D20F39;
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
@@ -150,6 +167,7 @@ h3 {
 	top: 1.7em;
 	text-align: right;
 	width: 20%;
+	color: #E64553;
 }
 
 a {
@@ -158,7 +176,7 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color: #E64553;
 }
 
 #webaddress {
@@ -168,6 +186,8 @@ a:hover {
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
+	display: flex;
+	gap: 2rem;
 }
 
 #webaddress a {

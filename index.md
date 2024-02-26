@@ -2,17 +2,25 @@
 layout: cv
 title: Lebenslauf Theo Grigor
 ---
+![Theo Grigor](/assets/me.jpeg)  
 # Theo Grigor
 Fullstack-Entwickler
 
-<div id="webaddress">
-    <a href="https://www.linkedin.com/in/theo-grigor-313167198">LinkedIn</a>
-|   <a href="mailto:thgr4j@pm.me">thgr4j@pm.me</a>
-|   <a href="tel:+4917636397655">017636397655</a>
-</div>
-Mitgautstraße 15,
+Geboren am 6. März 2001 in Karlsruhe  
+Mitgaustraße 15,  
 38106 Braunschweig
 
+<div id="webaddress">
+    <a href="https://www.linkedin.com/in/theo-grigor-313167198">
+    <i class="fa-brands fa-linkedin"></i>
+    LinkedIn</a>
+    <a href="mailto:thgr4j@pm.me">
+    <i class="fa-regular fa-envelope"></i>
+    thgr4j@pm.me</a>
+    <a href="tel:+4917636397655">
+    <i class="fa-solid fa-phone"></i>
+    017636397655</a>
+</div>
 
 ## Tätigkeiten
 
@@ -30,15 +38,20 @@ VisioNachhilfe e.V.
 Gemeinnütziger Verein für innerschulische Nachhilfe
 
 ### Skills
-- Java
-- Spring Boot
-- Angular, PrimeNG
-- React, PrimeReact
-- HTMX
-- Kubernetes, ArgoCD, Helm
-- Gitlab CI, Bamboo
-- Azure
-- MySQL, PostgreSQL
+
+- __Stack__
+    - <span class="blue">Backend:</span>Java, Spring Boot
+    - <span class="blue">DB:</span> MySQL, PostgreSQL
+    - <span class="blue">Frontend:</span> React, Angular, Thymeleaf, HTMX
+    - <span class="blue">Styling:</span> SCSS, PrimeNG, PrimeReact, Bootstrap
+- __DevOps__
+    - <span class="blue">Integration:</span> Gitlab CI, Bamboo
+    - <span class="blue">Delivery:</span> Kubernetes, ArgoCD, Helm
+- __Cloud__
+    - <span class="blue">Azure:</span> AKS, Storage, Functions
+- __Sonstiges__
+    - <span class="blue">Kollaboration:</span> Jira, Miro
+    - <span class="blue">MS 365:</span> Word, Excel, Powerpoint
 
 
 ## Bildung
@@ -49,7 +62,7 @@ Georg-August-Universität Göttingen
 
 `05.2023`
 __Bachelorarbeit__  
-"Erstellung einer Taxonomie zur Klassifizierung automatisierter Tests in Software Testing Education"  
+_"Erstellung einer Taxonomie zur Klassifizierung automatisierter Tests in Software Testing Education"_  
 Georg-August-Universität Göttingen
 
 ## Zertifikate
