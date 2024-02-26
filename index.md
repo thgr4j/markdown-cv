@@ -1,91 +1,54 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lebenslauf Theo Grigor
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Theo Grigor
+Fullstack-Entwickler
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+    <a href="mailto:thgr4j@pm.me">thgr4j@pm.me</a>
+|   <a href="tel:+4917636397655">017636397655</a>
 </div>
+Mitgautstraße 15,
+38106 Braunschweig
 
 
-## Currently
+## Tätigkeiten
 
-Standing on the shoulders of giants
+`seit 09.2023`
+__Bredex GmbH__
+Software Developer Expert  
+- Spring Boot
+- React, PrimeReact
+- MySQL
+- Kubernetes, Helm
+- Azure
+- Gitlab CI, Bamboo
 
-### Specialized in
+`01.2023-09.2023`
+__Bredex GmbH__  
+Studentische Hilfskraft
+- Spring Boot
+- Angular, PrimeNG
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Bildung
 
+`seit 10.2019`
+__Georg-August-Universität Göttingen__  
+Wirtschaftsinformatik B.Sc.
 
-### Research interests
+`05.2023`
+__Georg-August-Universität Göttingen__  
+Bachelorarbeit: "Erstellung einer Taxonomie zur Klassifizierung automatisierter Tests in Software Testing Education"
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Zertifikate
 
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`09.2021`
+__Georg-August-Universität Göttingen__  
+Business English C1.2
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2024 -->
 
 
