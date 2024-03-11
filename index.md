@@ -48,7 +48,7 @@ Gemeinnütziger Verein für innerschulische Nachhilfe
     - <span class="blue">Integration:</span> Gitlab CI, Bamboo
     - <span class="blue">Delivery:</span> Kubernetes, ArgoCD, Helm
 - __Cloud__
-    - <span class="blue">Azure:</span> AKS, Storage, Functions
+    - <span class="blue">Azure:</span> AKS, Storage
 - __Sonstiges__
     - <span class="blue">Kollaboration:</span> Jira, Miro
     - <span class="blue">MS 365:</span> Word, Excel, Powerpoint
