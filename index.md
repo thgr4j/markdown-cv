@@ -2,7 +2,7 @@
 layout: cv
 title: Lebenslauf Theo Grigor
 ---
-![Theo Grigor](/assets/me.jpeg)  
+![Theo Grigor](/assets/theo_football.jpg)  
 # Theo Grigor
 Fullstack-Entwickler
 
