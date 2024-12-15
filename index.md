@@ -4,7 +4,7 @@ title: Lebenslauf Theo Grigor
 ---
 ![Theo Grigor](/assets/football.jpg)  
 # Theo Grigor
-Fullstack-Entwickler
+Fullstack-Entwickler & DevOps Engineer
 
 Geboren am 6. März 2001 in Karlsruhe  
 Mitgaustraße 15,  
@@ -25,13 +25,13 @@ Mitgaustraße 15,
 ## Tätigkeiten
 
 `seit 09.2023`
-__Software Developer Expert, DevOps Engineer Expert, Software Architect Professional__  
-Bredex GmbH
-Derzeit arbeite ich in einem Greenfield-Projekt im Bereich Nachhaltigkeit, in dem ich sowohl als Fullstack-Entwickler (Java Microservices, Spring Boot, React) als auch als DevOps Engineer tätig bin. Im DevOps-Bereich entwickle ich CI/CD-Pipelines auf Bamboo und Bitbucket zur Automatisierung von Test-, Deployment- und Release-Prozessen. Zudem setze ich Kubernetes und Helm Charts für das Container-Management ein und manage die Cloud-Infrastruktur auf Microsoft Azure.
+__Software Developer Expert, DevOps Engineer Expert__  
+Bredex GmbH  
+Derzeit arbeite ich in einem Greenfield-Projekt im Bereich Nachhaltigkeit, in dem ich sowohl als Fullstack-Entwickler (Spring Boot, Quarkus, React) als auch als DevOps Engineer tätig bin. Im DevOps-Bereich entwickle ich CI/CD-Pipelines auf Bamboo und Bitbucket zur Automatisierung von Test-, Deployment- und Release-Prozessen. Zudem setze ich Kubernetes und Helm Charts für das Container-Management ein und manage die Cloud-Infrastruktur auf Microsoft Azure.
 
 `01.2023-09.2023`
 __Studentische Hilfskraft__  
-Bredex GmbH
+Bredex GmbH  
 Fullstack-Entwicklung in Digitalisierungsprojekten (Spring Boot, Angular).
 
 `2017-2024`
