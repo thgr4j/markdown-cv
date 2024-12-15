@@ -25,30 +25,32 @@ Mitgaustraße 15,
 ## Tätigkeiten
 
 `seit 09.2023`
-__Software Developer Expert__  
+__Software Developer Expert, DevOps Engineer Expert, Software Architect Professional__  
 Bredex GmbH
+Derzeit arbeite ich in einem Greenfield-Projekt im Bereich Nachhaltigkeit, in dem ich sowohl als Fullstack-Entwickler (Java Microservices, Spring Boot, React) als auch als DevOps Engineer tätig bin. Im DevOps-Bereich entwickle ich CI/CD-Pipelines auf Bamboo und Bitbucket zur Automatisierung von Test-, Deployment- und Release-Prozessen. Zudem setze ich Kubernetes und Helm Charts für das Container-Management ein und manage die Cloud-Infrastruktur auf Microsoft Azure.
 
 `01.2023-09.2023`
 __Studentische Hilfskraft__  
 Bredex GmbH
+Fullstack-Entwicklung in Digitalisierungsprojekten (Spring Boot, Angular).
 
-`seit 2017`
+`2017-2024`
 __Ehrenamtlicher Vorstandsmitglied__  
 VisioNachhilfe e.V.  
 Gemeinnütziger Verein für innerschulische Nachhilfe
 
 ### Skills
 
-- __Stack__
-    - <span class="blue">Backend:</span>Java, Spring Boot
-    - <span class="blue">DB:</span> MySQL, PostgreSQL
+- __Tech__
+    - <span class="blue">Backend:</span> Python, Java, Spring Boot, Quarkus
+    - <span class="blue">DB:</span> MySQL, PostgreSQL, MongoDB
     - <span class="blue">Frontend:</span> React, Angular, Thymeleaf, HTMX
-    - <span class="blue">Styling:</span> SCSS, PrimeNG, PrimeReact, Bootstrap
+    - <span class="blue">Styling:</span> SCSS, PrimeReact, Tailwind CSS, Bootstrap
 - __DevOps__
     - <span class="blue">Integration:</span> Gitlab CI, Bamboo
-    - <span class="blue">Delivery:</span> Kubernetes, ArgoCD, Helm
+    - <span class="blue">Delivery:</span> Kubernetes, Docker, ArgoCD, Helm Charts
 - __Cloud__
-    - <span class="blue">Azure:</span> AKS, Storage
+    - <span class="blue">Azure:</span> AKS, Blob Storage, Monitoring
 - __Sonstiges__
     - <span class="blue">Kollaboration:</span> Jira, Miro
     - <span class="blue">MS 365:</span> Word, Excel, Powerpoint
@@ -56,7 +58,7 @@ Gemeinnütziger Verein für innerschulische Nachhilfe
 
 ## Bildung
 
-`seit 10.2019`
+`2019-2024`
 __Wirtschaftsinformatik B.Sc.__  
 Georg-August-Universität Göttingen
 
@@ -73,6 +75,6 @@ Georg-August-Universität Göttingen
 
 <!-- ### Footer
 
-Last updated: Feb 2024 -->
+Last updated: Dec 2024 -->
 
 
