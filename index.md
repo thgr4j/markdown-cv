@@ -22,24 +22,24 @@ Mitgaustraße 15,
     017636397655</a>
 </div>
 
-## Tätigkeiten
+## Berufserfahrung
 
 `seit 09.2023`
 __Software Developer Expert, DevOps Engineer Expert__  
 Bredex GmbH  
-Derzeit arbeite ich in einem Greenfield-Projekt im Bereich Nachhaltigkeit, in dem ich sowohl als Fullstack-Entwickler (Spring Boot, Quarkus, React) als auch als DevOps Engineer tätig bin. Im DevOps-Bereich entwickle ich CI/CD-Pipelines auf Bamboo und Bitbucket zur Automatisierung von Test-, Deployment- und Release-Prozessen. Zudem setze ich Kubernetes und Helm Charts für das Container-Management ein und manage die Cloud-Infrastruktur auf Microsoft Azure.
+<small>Derzeit arbeite ich in einem Greenfield-Projekt im Bereich Nachhaltigkeit, in dem ich sowohl als Fullstack-Entwickler (Spring Boot, Quarkus, React) als auch als DevOps Engineer tätig bin. Im DevOps-Bereich entwickle ich CI/CD-Pipelines auf Bamboo und Bitbucket zur Automatisierung von Test-, Deployment- und Release-Prozessen. Zudem setze ich Kubernetes und Helm Charts für das Container-Management ein und manage die Cloud-Infrastruktur auf Microsoft Azure.</small>
+
+`seit 02.2024`
+__Student Mentoring__  
+Bredex GmbH  
+<small>Betreuung von Praktikant:innen \& Studierende und Koordination von internen Projekten.</small>
 
 `01.2023-09.2023`
-__Studentische Hilfskraft__  
+__Werkstudent__  
 Bredex GmbH  
-Fullstack-Entwicklung in Digitalisierungsprojekten (Spring Boot, Angular).
+<small>Fullstack-Entwicklung in Digitalisierungsprojekten (Spring Boot, Angular).</small>
 
-`2017-2024`
-__Ehrenamtlicher Vorstandsmitglied__  
-VisioNachhilfe e.V.  
-Gemeinnütziger Verein für innerschulische Nachhilfe
-
-### Skills
+## Skills
 
 - __Tech__
     - <span class="blue">Backend:</span> Python, Java, Spring Boot, Quarkus
@@ -51,10 +51,18 @@ Gemeinnütziger Verein für innerschulische Nachhilfe
     - <span class="blue">Delivery:</span> Kubernetes, Docker, ArgoCD, Helm Charts
 - __Cloud__
     - <span class="blue">Azure:</span> AKS, Blob Storage, Monitoring
+- __Testing__
+    - Testgetriebene Entwicklung (TDD)
+    - <span class="blue">Frontend:</span> Cypress (Component), Playwright (E2E)
+    - <span class="blue">Backend:</span> jUnit, Testcontainers
+- __Soft Skills__
+    - Agile Leadership \& Mentoring
+    - Flexibilität \& Stressresistenz
+    - Strategisches Denken
 - __Sonstiges__
+    - <span class="blue">Sprachen:</span> Englisch (fließend), Deutsch \& Französisch (Muttersprache)
     - <span class="blue">Kollaboration:</span> Jira, Miro
     - <span class="blue">MS 365:</span> Word, Excel, Powerpoint
-
 
 ## Bildung
 
@@ -62,16 +70,22 @@ Gemeinnütziger Verein für innerschulische Nachhilfe
 __Wirtschaftsinformatik B.Sc.__  
 Georg-August-Universität Göttingen
 
-`05.2023`
-__Bachelorarbeit__  
-_"Erstellung einer Taxonomie zur Klassifizierung automatisierter Tests in Software Testing Education"_  
-Georg-August-Universität Göttingen
-
 ## Zertifikate
 
 `09.2021`
 __Business English C1.2__  
 Georg-August-Universität Göttingen
+
+## Engagement
+
+`2017-2024`
+__Ehrenamtlicher Vorstandsmitglied__  
+VisioNachhilfe e.V.  
+<small>Gemeinnütziger Verein für innerschulische Nachhilfe</small>
+
+`2017-2019`
+__Nachhilfelehrer__  
+VisioNachhilfe e.V.
 
 <!-- ### Footer
 
