@@ -194,7 +194,8 @@ a:hover {
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 	display: flex;
-	gap: 2rem;
+	row-gap: 1rem;
+	column-gap: 2rem;
 	flex-wrap: wrap;
 }
 
