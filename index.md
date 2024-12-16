@@ -32,7 +32,7 @@ Geboren am 6. März 2001 in Karlsruhe
 ## Berufserfahrung
 
 `seit 09.2023`
-__Software Developer Expert, DevOps Engineer Expert__  
+__Software Developer, DevOps Engineer__  
 
 - Bredex GmbH  
   - <p class="job-desc">Derzeit arbeite ich in einem Greenfield-Projekt im Bereich Nachhaltigkeit, in dem ich sowohl als Fullstack-Entwickler (Spring Boot, Quarkus, React) als auch als DevOps Engineer tätig bin. Im DevOps-Bereich entwickle ich CI/CD-Pipelines auf Bamboo und Bitbucket zur Automatisierung von Test-, Deployment- und Release-Prozessen. Zudem setze ich Kubernetes und Helm Charts für das Container-Management ein und manage die Cloud-Infrastruktur auf Microsoft Azure.</p>
