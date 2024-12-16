@@ -64,7 +64,7 @@ img {
 }
 
 .blue {
-	color: #1E66F5;
+	color: #179299;
 }
 
 .job-desc {
@@ -155,7 +155,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #D20F39;
+	color: #bc412b;
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
@@ -170,7 +170,7 @@ h3 {
 	top: 1.7em;
 	text-align: right;
 	width: 20%;
-	color: #E64553;
+	color: #bc412b;
 }
 
 a {
