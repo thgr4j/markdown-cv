@@ -14,9 +14,9 @@ Mitgaustraße 15,
     <a href="https://www.linkedin.com/in/theo-grigor-313167198">
     <i class="fa-brands fa-linkedin"></i>
     LinkedIn</a>
-    <a href="mailto:thgr4j@pm.me">
+    <a href="mailto:contact@thgr4j.slmail.me">
     <i class="fa-regular fa-envelope"></i>
-    thgr4j@pm.me</a>
+    contact@thgr4j.slmail.me</a>
     <a href="tel:+4917636397655">
     <i class="fa-solid fa-phone"></i>
     017636397655</a>
