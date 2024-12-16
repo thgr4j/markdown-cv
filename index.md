@@ -41,7 +41,7 @@ __Software Developer, DevOps Engineer__
 __Mentoring__  
 
 - Bredex GmbH  
-  - <p class="job-desc">Betreuung von Praktikant:innen & Studierende und Koordination von internen Projekten.</p>
+  - <p class="job-desc">Betreuung von Praktikant:innen & Studierenden und Koordination von internen Projekten.</p>
 
 `01.2023-09.2023`
 __Werkstudent__  
