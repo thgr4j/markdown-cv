@@ -59,7 +59,7 @@ img {
 	padding-top: 1rem;
 }
 
-#tätigkeiten {
+#berufserfahrung {
 	margin-top: 1rem;
 }
 
@@ -67,6 +67,9 @@ img {
 	color: #1E66F5;
 }
 
+.job-desc {
+	font-size: .8rem;
+}
 
 body {
 	font: normal normal 400;

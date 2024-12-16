@@ -27,17 +27,17 @@ Mitgaustraße 15,
 `seit 09.2023`
 __Software Developer Expert, DevOps Engineer Expert__  
 Bredex GmbH  
-<small>Derzeit arbeite ich in einem Greenfield-Projekt im Bereich Nachhaltigkeit, in dem ich sowohl als Fullstack-Entwickler (Spring Boot, Quarkus, React) als auch als DevOps Engineer tätig bin. Im DevOps-Bereich entwickle ich CI/CD-Pipelines auf Bamboo und Bitbucket zur Automatisierung von Test-, Deployment- und Release-Prozessen. Zudem setze ich Kubernetes und Helm Charts für das Container-Management ein und manage die Cloud-Infrastruktur auf Microsoft Azure.</small>
+<blockquote class="job-desc">Derzeit arbeite ich in einem Greenfield-Projekt im Bereich Nachhaltigkeit, in dem ich sowohl als Fullstack-Entwickler (Spring Boot, Quarkus, React) als auch als DevOps Engineer tätig bin. Im DevOps-Bereich entwickle ich CI/CD-Pipelines auf Bamboo und Bitbucket zur Automatisierung von Test-, Deployment- und Release-Prozessen. Zudem setze ich Kubernetes und Helm Charts für das Container-Management ein und manage die Cloud-Infrastruktur auf Microsoft Azure.</blockquote>
 
 `seit 02.2024`
 __Student Mentoring__  
 Bredex GmbH  
-<small>Betreuung von Praktikant:innen \& Studierende und Koordination von internen Projekten.</small>
+<blockquote class="job-desc">Betreuung von Praktikant:innen & Studierende und Koordination von internen Projekten.</blockquote>
 
 `01.2023-09.2023`
 __Werkstudent__  
 Bredex GmbH  
-<small>Fullstack-Entwicklung in Digitalisierungsprojekten (Spring Boot, Angular).</small>
+<blockquote class="job-desc">Fullstack-Entwicklung in Digitalisierungsprojekten (Spring Boot, Angular).</blockquote>
 
 ## Skills
 
@@ -53,14 +53,14 @@ Bredex GmbH
     - <span class="blue">Azure:</span> AKS, Blob Storage, Monitoring
 - __Testing__
     - Testgetriebene Entwicklung (TDD)
-    - <span class="blue">Frontend:</span> Cypress (Component), Playwright (E2E)
+    - <span class="blue">Frontend:</span> Cypress (Component), Playwright (E2E), Vitest
     - <span class="blue">Backend:</span> jUnit, Testcontainers
 - __Soft Skills__
-    - Agile Leadership \& Mentoring
-    - Flexibilität \& Stressresistenz
+    - Agile Leadership & Mentoring
+    - Flexibilität & Stressresistenz
     - Strategisches Denken
 - __Sonstiges__
-    - <span class="blue">Sprachen:</span> Englisch (fließend), Deutsch \& Französisch (Muttersprache)
+    - <span class="blue">Sprachen:</span> Englisch (fließend), Deutsch & Französisch (bilingual)
     - <span class="blue">Kollaboration:</span> Jira, Miro
     - <span class="blue">MS 365:</span> Word, Excel, Powerpoint
 
@@ -81,7 +81,7 @@ Georg-August-Universität Göttingen
 `2017-2024`
 __Ehrenamtlicher Vorstandsmitglied__  
 VisioNachhilfe e.V.  
-<small>Gemeinnütziger Verein für innerschulische Nachhilfe</small>
+<blockquote class="job-desc">Gemeinnütziger Verein für innerschulische Nachhilfe</blockquote>
 
 `2017-2019`
 __Nachhilfelehrer__  
