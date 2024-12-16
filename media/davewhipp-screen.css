@@ -89,6 +89,10 @@ p {
 	width: 55%;
 }
 
+li p {
+	left: 0;
+}
+
 code {
 	font: normal normal;
 	font-size: 90%;
