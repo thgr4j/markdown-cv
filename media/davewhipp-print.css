@@ -64,7 +64,7 @@ img {
 }
 
 .blue {
-	color: #179299;
+	color: #7287FD;
 }
 
 .job-desc {
@@ -159,7 +159,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #D20F39;
+	color: #bc412b;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
@@ -171,7 +171,7 @@ h2 {
 h3 {
 	font-size: 1em;
 	line-height: 2em;
-	color: #E64553;
+	color: #bc412b;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
@@ -191,7 +191,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #D20F39;
+	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
