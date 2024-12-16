@@ -6,9 +6,7 @@ title: Lebenslauf Theo Grigor
 
 # Theo Grigor
 
-Fullstack-Entwickler & DevOps Engineer
-
-Geboren am 6. März 2001 in Karlsruhe  
+Fullstack-Entwickler & DevOps Engineer  
 
 <div id="webaddress">
     <a href="https://www.linkedin.com/in/theo-grigor-313167198">
