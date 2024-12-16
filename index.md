@@ -68,13 +68,13 @@ __Werkstudent__
 
 `2019-2024`
 __Wirtschaftsinformatik B.Sc.__  
-Georg-August-Universität Göttingen
+- Georg-August-Universität Göttingen
 
 ## Zertifikate
 
 `09.2021`
 __Business English C1.2__  
-Georg-August-Universität Göttingen
+- Georg-August-Universität Göttingen
 
 ## Engagement
 
@@ -85,7 +85,7 @@ __Ehrenamtlicher Vorstandsmitglied__
 
 `2017-2019`
 __Nachhilfelehrer__  
-VisioNachhilfe e.V.
+- VisioNachhilfe e.V.
 
 <!-- ### Footer
 
