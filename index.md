@@ -27,17 +27,17 @@ Mitgaustraße 15,
 `seit 09.2023`
 __Software Developer Expert, DevOps Engineer Expert__  
 - Bredex GmbH  
-    - <span class="job-desc">Derzeit arbeite ich in einem Greenfield-Projekt im Bereich Nachhaltigkeit, in dem ich sowohl als Fullstack-Entwickler (Spring Boot, Quarkus, React) als auch als DevOps Engineer tätig bin. Im DevOps-Bereich entwickle ich CI/CD-Pipelines auf Bamboo und Bitbucket zur Automatisierung von Test-, Deployment- und Release-Prozessen. Zudem setze ich Kubernetes und Helm Charts für das Container-Management ein und manage die Cloud-Infrastruktur auf Microsoft Azure.</span>
+    - <p class="job-desc">Derzeit arbeite ich in einem Greenfield-Projekt im Bereich Nachhaltigkeit, in dem ich sowohl als Fullstack-Entwickler (Spring Boot, Quarkus, React) als auch als DevOps Engineer tätig bin. Im DevOps-Bereich entwickle ich CI/CD-Pipelines auf Bamboo und Bitbucket zur Automatisierung von Test-, Deployment- und Release-Prozessen. Zudem setze ich Kubernetes und Helm Charts für das Container-Management ein und manage die Cloud-Infrastruktur auf Microsoft Azure.</p>
 
 `seit 02.2024`
 __Mentoring__  
 - Bredex GmbH  
-    - <span class="job-desc">Betreuung von Praktikant:innen & Studierende und Koordination von internen Projekten.</span>
+    - <p class="job-desc">Betreuung von Praktikant:innen & Studierende und Koordination von internen Projekten.</p>
 
 `01.2023-09.2023`
 __Werkstudent__  
 - Bredex GmbH  
-    - <span class="job-desc">Fullstack-Entwicklung in Digitalisierungsprojekten (Spring Boot, Angular).</span>
+    - <p class="job-desc">Fullstack-Entwicklung in Digitalisierungsprojekten (Spring Boot, Angular).</p>
 
 ## Skills
 
@@ -81,7 +81,7 @@ Georg-August-Universität Göttingen
 `2017-2024`
 __Ehrenamtlicher Vorstandsmitglied__  
 - VisioNachhilfe e.V.  
-    - <span class="job-desc">Gemeinnütziger Verein für innerschulische Nachhilfe</span>
+    - <p class="job-desc">Gemeinnütziger Verein für innerschulische Nachhilfe</p>
 
 `2017-2019`
 __Nachhilfelehrer__  
