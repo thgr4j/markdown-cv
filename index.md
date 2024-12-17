@@ -70,8 +70,8 @@ __Werkstudent__
   - Strategisches Denken
 - __Weitere Kompetenzen__
   - <span class="blue">Sprachen:</span> Englisch (fließend), Deutsch & Französisch (bilingual)
-  - <span class="blue">Kollaboration:</span> Jira, Miro
-  - <span class="blue">MS 365:</span> Word, Excel, Powerpoint
+  - <span class="blue">Kollaboration:</span> Scrum, Jira, Miro, Figma
+  - <span class="blue">OS</span> Linux (Debian & RHEL), macos, Windows
 
 ## Bildung
 
