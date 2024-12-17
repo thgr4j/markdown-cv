@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Lebenslauf Theo Grigor
+title: Theo Grigor
 ---
 ![Theo Grigor](/assets/football.jpg)  
 
