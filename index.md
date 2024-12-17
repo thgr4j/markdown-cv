@@ -74,7 +74,7 @@ __Werkstudent__
 
 ## Bildung
 
-`01.10.2019-16.07.2024`
+`10.2019-07.2024`
 __Wirtschaftsinformatik B.Sc.__  
 
 - Georg-August-Universität Göttingen
@@ -88,13 +88,13 @@ __Business English C1.2__
 
 ## Engagement
 
-`2017-2024`
+`03.2017-12.2024`
 __Ehrenamtliches Vorstandsmitglied__  
 
 - VisioNachhilfe e.V.  
   - <span class="job-desc">Gemeinnütziger Verein für innerschulische Nachhilfe</span>
 
-`2015-2019`
+`04.2015-06.2019`
 __Nachhilfelehrer__  
 
 - VisioNachhilfe e.V.
