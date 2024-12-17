@@ -29,17 +29,17 @@ Fullstack-Entwickler & DevOps Engineer
 
 ## Berufserfahrung
 
-`seit 09.2023`
-__Software Developer, DevOps Engineer__  
-
-- Bredex GmbH  
-  - <p class="job-desc">Derzeit arbeite ich in einem Greenfield-Projekt im Bereich Nachhaltigkeit, in dem ich sowohl als Fullstack-Entwickler (Spring Boot, Quarkus, React) als auch als DevOps Engineer tätig bin. Im DevOps-Bereich entwickle ich CI/CD-Pipelines auf Bamboo und Bitbucket zur Automatisierung von Test-, Deployment- und Release-Prozessen. Zudem setze ich Kubernetes und Helm Charts für das Container-Management ein und manage die Cloud-Infrastruktur auf Microsoft Azure.</p>
-
 `seit 02.2024`
 __Mentoring__  
 
 - Bredex GmbH  
   - <p class="job-desc">Betreuung von Praktikant:innen & Studierenden und Koordination von internen Projekten.</p>
+
+`seit 09.2023`
+__Software Developer, DevOps Engineer__  
+
+- Bredex GmbH  
+  - <p class="job-desc">Derzeit arbeite ich in einem Greenfield-Projekt im Bereich Nachhaltigkeit, in dem ich sowohl als Fullstack-Entwickler (Spring Boot, Quarkus, React) als auch als DevOps Engineer tätig bin. Im DevOps-Bereich entwickle ich CI/CD-Pipelines auf Bamboo und Bitbucket zur Automatisierung von Test-, Deployment- und Release-Prozessen. Zudem setze ich Kubernetes und Helm Charts für das Container-Management ein und manage die Cloud-Infrastruktur auf Microsoft Azure.</p>
 
 `01.2023-09.2023`
 __Werkstudent__  
