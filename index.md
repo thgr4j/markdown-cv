@@ -74,7 +74,7 @@ __Werkstudent__
 
 ## Bildung
 
-`2019-2024`
+`01.10.2019-16.07.2024`
 __Wirtschaftsinformatik B.Sc.__  
 
 - Georg-August-Universität Göttingen
