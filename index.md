@@ -71,7 +71,7 @@ __Werkstudent__
 - __Weitere Kompetenzen__
   - <span class="blue">Sprachen:</span> Englisch (fließend), Deutsch & Französisch (bilingual)
   - <span class="blue">Kollaboration:</span> Scrum, Jira, Miro, Figma
-  - <span class="blue">OS</span> Linux (Debian & RHEL), macos, Windows
+  - <span class="blue">Betriebssysteme:</span> Linux (Debian & RHEL), macos, Windows
 
 ## Bildung
 
