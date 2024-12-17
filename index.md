@@ -94,7 +94,7 @@ __Ehrenamtliches Vorstandsmitglied__
 - VisioNachhilfe e.V.  
   - <span class="job-desc">Gemeinnütziger Verein für innerschulische Nachhilfe</span>
 
-`2017-2019`
+`2015-2019`
 __Nachhilfelehrer__  
 
 - VisioNachhilfe e.V.
